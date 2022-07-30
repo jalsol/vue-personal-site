@@ -8,11 +8,11 @@
       />
     </div>
 
-    <h3 class="text-center">
+    <h2 class="text-center">
       <span class="swap-title-hover">
         <span class="text-not">not</span> <span class="text-found">found.</span>
       </span>
-    </h3>
+    </h2>
 
     <p class="text-center">
       something's <span class="red-text">wrong</span>, please
@@ -33,6 +33,15 @@ export default {};
 #title-margin {
   margin-top: 2em;
   margin-bottom: 1em;
+}
+
+@media (min-width: 1366px) and (min-height: 768px) {
+  #not-found-image {
+    height: 20em;
+  }
+  #title-margin {
+    margin-top: 3em;
+  }
 }
 
 .swap-title-hover:hover .text-not {

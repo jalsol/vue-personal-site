@@ -6,7 +6,6 @@
       </p>
 
       <p class="text-center">
-        <!-- <a class="nav-item nav-link" href="/about">about</a> -->
         <router-link class="nav-item nav-link" to="/about">about</router-link>
       </p>
 
@@ -24,8 +23,8 @@ export default {};
 <style scoped>
 @media (min-width: 1200px) {
   #header-bar {
-    padding-right: 30em;
-    padding-left: 30em;
+    padding-right: 25em;
+    padding-left: 25em;
   }
 }
 
@@ -54,6 +53,12 @@ export default {};
   padding-top: 1em;
   border-bottom: 1px solid #333333;
   background-color: #1a1b26;
+}
+
+@media (min-width: 1024px) {
+  * {
+    font-size: 22px;
+  }
 }
 
 a:hover {

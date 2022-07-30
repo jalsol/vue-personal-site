@@ -17,7 +17,21 @@ export default {};
   margin-bottom: 2em;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1900px) {
+  .card {
+    margin-right: 30em;
+    margin-left: 30em;
+  }
+}
+
+@media (min-width: 1600px) and (max-width: 1899px) {
+  .card {
+    margin-right: 25em;
+    margin-left: 25em;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1599px) {
   .card {
     margin-right: 20em;
     margin-left: 20em;

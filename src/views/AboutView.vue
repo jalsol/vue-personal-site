@@ -4,9 +4,9 @@
       <img src="@/assets/images/wpp.png" alt="wpp" id="wpp" />
     </div>
 
-    <h3 class="text-center">
+    <h2 class="text-center">
       <span class="red-title-hover">about.</span>
-    </h3>
+    </h2>
 
     <TextCard>
       An <span class="red-text">abnormal</span> human being, with an
@@ -19,7 +19,7 @@
       <br />
       <br />
 
-      <b><i> -- to shine (even) brighter. -- </i></b>
+      <b><i> - to shine (even) brighter. - </i></b>
     </TextCard>
   </div>
 </template>
@@ -39,5 +39,14 @@ export default {
 #title-margin {
   margin-top: 2em;
   margin-bottom: 1em;
+}
+
+@media (min-width: 1366px) and (min-height: 768px) {
+  #wpp {
+    height: 20em;
+  }
+  #title-margin {
+    margin-top: 3em;
+  }
 }
 </style>
