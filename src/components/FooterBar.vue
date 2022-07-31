@@ -26,7 +26,10 @@
         </a>
       </div>
 
-      <h6 class="text-center">© 2022 - present</h6>
+      <h6 class="text-center">
+        © 2022 - <span class="red-text">present</span> day,
+        <span class="red-text">present</span> time
+      </h6>
     </div>
   </footer>
 </template>
