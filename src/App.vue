@@ -23,6 +23,6 @@ import FooterBar from "./components/FooterBar.vue";
 
 .fade-enter-active,
 .fade-leave-active {
-  transition: opacity 0.4s ease-out;
+  transition: opacity 0.3s ease-out;
 }
 </style>

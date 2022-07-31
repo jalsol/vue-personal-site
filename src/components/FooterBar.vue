@@ -51,8 +51,4 @@ export default {};
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
-
-/* a:hover {
-  color: red !important;
-} */
 </style>

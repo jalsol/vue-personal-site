@@ -4,7 +4,7 @@
       <div class="row justify-shift">
         <div class="col">
           <img
-            src="@/assets/images/pfp.png"
+            src="@/assets/images/pfp.gif"
             alt="avatar"
             class="float-end"
             id="avatar"

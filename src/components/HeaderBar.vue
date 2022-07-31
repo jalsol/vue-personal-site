@@ -21,21 +21,21 @@ export default {};
 </script>
 
 <style scoped>
-@media (min-width: 1200px) {
+@media (min-width: 1281px) {
   #header-bar {
     padding-right: 25em;
     padding-left: 25em;
   }
 }
 
-@media (min-width: 1024px) and (max-width: 1199px) {
+@media (min-width: 1025px) and (max-width: 1280px) {
   #header-bar {
     padding-right: 20em;
     padding-left: 20em;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   #header-bar {
     padding-right: 15em;
     padding-left: 15em;
@@ -50,7 +50,7 @@ export default {};
 }
 
 #header-bar {
-  padding-top: 1em;
+  padding-top: 0.75em;
   border-bottom: 1px solid #333333;
   background-color: #1a1b26;
 }
