@@ -1,16 +1,19 @@
-# vue-project
+# My personal site, in Vue 3!
 
-This template should help get you started developing with Vue 3 in Vite.
+Now live at <a href="https://jalsol.xyz">jalsol.xyz</a>!
 
-## Recommended IDE Setup
+I started working on this project as a way to get myself used to Vue, as my
+first front-end framework. I also wanted to create a new website _from scratch_
+(with the help of some toolings, ofc), instead of using a Jekyll template.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+The last web project I worked on prior to this one was back in 2020, for ViSEF.
+It feels great to get my hands back on doing such work again.
 
-## Customize configuration
+My intention has been for fun, as I don't see myself becoming a competent
+front-end developer in the future. I'm more of a back-end person, but I'm glad
+how this turns out (and I hope you do, too).
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+# Project Setup
 
 ```sh
 npm install
