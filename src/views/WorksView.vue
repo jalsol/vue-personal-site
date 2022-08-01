@@ -46,7 +46,10 @@
         alt="ViSEF-2020"
         class="works-image rounded mx-auto d-block"
       />
-      <h6><b>Title:</b> Recommender System based on Emotion Recognition</h6>
+      <h6>
+        <b>Title:</b> Recommender System based on Emotion Recognition (in
+        collaboration with <span style="color: #ff9e64">@khangkontum</span>)
+      </h6>
       <ul>
         <li>
           <b>Tech stack:</b> Python (AI), PHP (HTTP server), Bootstrap 4 (UI),
