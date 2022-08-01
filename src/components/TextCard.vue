@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <div class="card-body text-justify">
+    <div class="card-body">
       <slot></slot>
     </div>
   </div>
@@ -50,9 +50,5 @@ export default {};
     margin-right: 3em;
     margin-left: 3em;
   }
-}
-
-.text-justify {
-  text-align: justify;
 }
 </style>
