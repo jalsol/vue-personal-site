@@ -48,7 +48,10 @@
       />
       <h6>
         <b>Title:</b> Recommender System based on Emotion Recognition (in
-        collaboration with <span style="color: #ff9e64">@khangkontum</span>)
+        collaboration with
+        <a href="http://github.com/khangkontum" style="color: #ff9e64"
+          >@khangkontum</a
+        >)
       </h6>
       <ul>
         <li>
