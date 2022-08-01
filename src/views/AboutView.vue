@@ -1,7 +1,11 @@
 <template>
   <div>
     <div class="d-flex justify-content-center" id="title-margin">
-      <img src="@/assets/images/wpp.png" alt="wpp" id="wpp" />
+      <picture>
+        <source srcset="@/assets/images/wpp.webp" type="image/webp" />
+        <source srcset="@/assets/images/wpp.png" type="image/png" />
+        <img src="@/assets/images/wpp.png" alt="wpp" id="wpp" />
+      </picture>
     </div>
 
     <h2 class="text-center">

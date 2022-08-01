@@ -1,7 +1,15 @@
 <template>
   <div>
     <div class="d-flex justify-content-center" id="title-margin">
-      <img src="@/assets/images/works.jpg" alt="works-image" id="works-image" />
+      <picture>
+        <source srcset="@/assets/images/works.webp" type="image/webp" />
+        <source srcset="@/assets/images/works.jpg" type="image/jpg" />
+        <img
+          src="@/assets/images/works.jpg"
+          alt="works-image"
+          id="works-image"
+        />
+      </picture>
     </div>
 
     <h2 class="text-center">
@@ -9,11 +17,21 @@
     </h2>
 
     <TextCard>
-      <img
-        src="@/assets/images/works/ViSEF-2022.png"
-        alt="ViSEF-2022"
-        class="works-image rounded mx-auto d-block"
-      />
+      <picture>
+        <source
+          srcset="@/assets/images/works/ViSEF-2022.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/ViSEF-2022.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/ViSEF-2022.png"
+          alt="ViSEF-2022"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
 
       <h6>
         <b>Title:</b> Detecting common diseases on coffee trees via images of
@@ -41,11 +59,21 @@
     </TextCard>
 
     <TextCard>
-      <img
-        src="@/assets/images/works/ViSEF-2020.png"
-        alt="ViSEF-2020"
-        class="works-image rounded mx-auto d-block"
-      />
+      <picture>
+        <source
+          srcset="@/assets/images/works/ViSEF-2020.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/ViSEF-2020.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/ViSEF-2020.png"
+          alt="ViSEF-2020"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
       <h6>
         <b>Title:</b> Recommender System based on Emotion Recognition (in
         collaboration with
@@ -77,11 +105,21 @@
     </TextCard>
 
     <TextCard>
-      <img
-        src="@/assets/images/works/web-portfolio.png"
-        alt="web-portfolio"
-        class="works-image rounded mx-auto d-block"
-      />
+      <picture>
+        <source
+          srcset="@/assets/images/works/web-portfolio.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/web-portfolio.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/web-portfolio.png"
+          alt="web-portfolio"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
       <h6><b>Title:</b> Web portfolio in Vue 3</h6>
       <ul>
         <li><b>Tech stack:</b> Vue 3, Bootstrap 5</li>
@@ -96,11 +134,21 @@
     </TextCard>
 
     <TextCard>
-      <img
-        src="@/assets/images/works/colorole-pp.png"
-        alt="colorole++"
-        class="works-image rounded mx-auto d-block"
-      />
+      <picture>
+        <source
+          srcset="@/assets/images/works/colorole-pp.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/colorole-pp.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/colorole-pp.png"
+          alt="colorole++"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
       <h6><b>Title:</b> colorole++</h6>
       <ul>
         <li><b>Tech stack:</b> C++</li>

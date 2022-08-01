@@ -3,12 +3,16 @@
     <div class="container" id="avatar-wrapper">
       <div class="row justify-shift">
         <div class="col">
-          <img
-            src="@/assets/images/pfp.gif"
-            alt="avatar"
-            class="float-end"
-            id="avatar"
-          />
+          <picture>
+            <source srcset="@/assets/images/pfp.webp" type="image/webp" />
+            <source srcset="@/assets/images/pfp.gif" type="image/gif" />
+            <img
+              src="@/assets/images/pfp.gif"
+              alt="avatar"
+              class="float-end"
+              id="avatar"
+            />
+          </picture>
         </div>
         <div class="col">
           <div>
