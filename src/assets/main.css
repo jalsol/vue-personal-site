@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap");
-
 @font-face {
   font-family: "Love Letter";
   src: url("./Lovelt__.ttf");
@@ -7,7 +5,7 @@
 
 * {
   color: #c0caf5;
-  font-family: "Love Letter", "Syne Mono", monospace;
+  font-family: "Love Letter", monospace;
 }
 
 body {
