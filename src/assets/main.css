@@ -28,3 +28,11 @@ body {
   color: red;
   transition: all ease 0.2s;
 }
+
+a {
+  color: #9ece6a;
+}
+
+a:hover {
+  color: #73daca;
+}
