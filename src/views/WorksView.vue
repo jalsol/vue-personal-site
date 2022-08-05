@@ -164,6 +164,40 @@
         </li>
       </ul>
     </TextCard>
+
+    <TextCard>
+      <picture>
+        <source
+          srcset="@/assets/images/works/cses-test-downloader.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/cses-test-downloader.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/cses-test-downloader.png"
+          alt="cses-test-downloader"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
+      <h6><b>Title:</b> CSES Test Downloader</h6>
+      <ul>
+        <li><b>Tech stack:</b> JavaScript</li>
+        <li>
+          <b>Description:</b> A simple Chrome extension that fetches test cases
+          on the result page of a problem, then downloads them in a zip file
+        </li>
+        <li>
+          <b>Source: </b>
+          <a
+            href="https://github.com/jalsol/cses-test-downloader"
+            target="_blank"
+            >https://github.com/jalsol/cses-test-downloader</a
+          >
+        </li>
+      </ul>
+    </TextCard>
   </div>
 </template>
 
