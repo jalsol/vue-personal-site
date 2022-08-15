@@ -17,8 +17,8 @@
       <span class="red-text">abnormal</span> identity, mind and soul. Has a
       <span class="red-text">strange</span>
       passion for programming, music and a bit for motorsports. Earned
-      <span class="red-text">bizzare</span> prizes, paid
-      <span class="red-text">bizzare</span> prices.
+      <span class="red-text">bizarre</span> prizes, paid
+      <span class="red-text">bizarre</span> prices.
 
       <br />
       <br />
