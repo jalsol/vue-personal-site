@@ -39,15 +39,19 @@
       </h6>
       <ul>
         <li>
-          <b>Tech stack:</b> Python (AI & HTTP server), Flutter (Mobile client)
+          <b>Tech stack:</b> Tech stack: Tensorflow, Keras, Flask, Flutter.
         </li>
         <li>
           <b>Description:</b> Send a leaf image of an infected coffee tree and
-          receive the predicted disease
+          receive the predicted disease.
+        </li>
+        <li>
+          <b>Motivation:</b> Support the local people and the local coffee
+          industry in Kon Tum.
         </li>
         <li>
           <b>Award:</b> Third Prize in the field of Embedded Systems at ViSEF
-          2021 - 2022
+          2021 - 2022.
         </li>
         <li>
           <b>Source: </b>
@@ -82,17 +86,18 @@
         >)
       </h6>
       <ul>
-        <li>
-          <b>Tech stack:</b> Python (AI), PHP (HTTP server), Bootstrap 4 (UI),
-          jQuery (asynchronous event handling)
-        </li>
+        <li><b>Tech stack:</b> Tensorflow, PHP, Bootstrap 4, jQuery.</li>
         <li>
           <b>Description:</b> Recognize customers' emotions to rate products and
-          recommend similar items
+          recommend similar items.
+        </li>
+        <li>
+          <b>Motivation:</b> Help retail stores improve shopping experience for
+          customers.
         </li>
         <li>
           <b>Award:</b> Participation in the field of Systems Software at ViSEF
-          2019 - 2020
+          2019 - 2020.
         </li>
         <li>
           <b>Source: </b>
