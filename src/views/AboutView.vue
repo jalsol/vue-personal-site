@@ -16,14 +16,19 @@
       An <span class="red-text">abnormal</span> human being, with an
       <span class="red-text">abnormal</span> identity, mind and soul. Has a
       <span class="red-text">strange</span>
-      passion for programming, music and a bit for motorsports. Earned
+      passion for programming, music and a bit for motorsports.
+
+      <br />
+      <br />
+
+      Earned
       <span class="red-text">bizarre</span> prizes, paid
       <span class="red-text">bizarre</span> prices.
 
       <br />
       <br />
 
-      <b><i> - to shine (even) brighter. - </i></b>
+      <b><i>shine.</i></b>
     </TextCard>
   </div>
 </template>

@@ -20,10 +20,6 @@
         >
           <font-awesome-icon icon="fa-brands fa-discord" />
         </a>
-
-        <a href="https://soundcloud.com/jalsol" target="_blank">
-          <font-awesome-icon icon="fa-brands fa-soundcloud" />
-        </a>
       </div>
 
       <h6 class="text-center">

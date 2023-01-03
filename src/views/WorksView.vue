@@ -19,6 +19,83 @@
     <TextCard>
       <picture>
         <source
+          srcset="@/assets/images/works/greenpot.webp"
+          type="image/webp"
+        />
+        <source srcset="@/assets/images/works/greenpot.png" type="image/png" />
+        <img
+          src="@/assets/images/works/greenpot.png"
+          alt="GreenPot"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
+
+      <h6>
+        <b>Title:</b> GreenPot (as
+        <span style="color: #ff9e64">team Hotpot</span>)
+      </h6>
+      <ul>
+        <li>
+          <b>Tech stack:</b> ReactJS and Tailwind CSS (front-end), Django and
+          SQLite (back-end)
+        </li>
+        <li>
+          <b>Description:</b> An app created in 24 hours by a team of five,
+          aiming to change people's awareness and habits for a better natural
+          environment by helping you organize your precious time, for your
+          precious tree, in your precious space
+        </li>
+        <li><b>Award:</b> Participation in GameUIT Hackathon 2022</li>
+        <li>
+          <b>Source: </b>
+          <a
+            href="https://github.com/GameUITHackathon2022/11-Hotpot"
+            target="_blank"
+            >https://github.com/GameUITHackathon2022/11-Hotpot</a
+          >
+        </li>
+      </ul>
+    </TextCard>
+
+    <TextCard>
+      <picture>
+        <source
+          srcset="@/assets/images/works/mongusweeper.webp"
+          type="image/webp"
+        />
+        <source
+          srcset="@/assets/images/works/mongusweeper.png"
+          type="image/png"
+        />
+        <img
+          src="@/assets/images/works/mongusweeper.png"
+          alt="GreenPot"
+          class="works-image rounded mx-auto d-block"
+        />
+      </picture>
+
+      <h6><b>Title:</b> Mongusweeper</h6>
+      <ul>
+        <li>
+          <b>Tech stack:</b> C++ with Raylib (game engine), yaml-cpp (game
+          configuration)
+        </li>
+        <li>
+          <b>Description:</b> An Among-Us-themed clone of Minesweeper as a final
+          project for the course CS161 - Introduction to Computer Science
+        </li>
+        <li>
+          <b>Source: </b>
+          <a href="https://github.com/jalsol/cs161-minesweeper" target="_blank"
+            >https://github.com/jalsol/cs161-minesweeper</a
+          >
+        </li>
+      </ul>
+    </TextCard>
+
+    <TextCard>
+      <picture>
+        <source
           srcset="@/assets/images/works/ViSEF-2022.webp"
           type="image/webp"
         />
